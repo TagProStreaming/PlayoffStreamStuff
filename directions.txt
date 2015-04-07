@@ -1,0 +1,21 @@
+To add a file:
+
+Save it in the PlayoffStreamStuff folder, maybe in a subfolder for organization but never in .git.
+
+In the client, click the gear in teh top right and click "Open in Git Shell"
+
+type git commit -m "some description of your change"
+
+type git push
+
+
+
+
+----
+
+
+to update the files:
+
+Open the repository in the Git Shell as before
+
+type git pull
