@@ -16,3 +16,9 @@ One you're there, there are directions in directions.txt for how to keep your lo
 repository up to date and how to add stuff to the repository for everyone to use.  If you're having
 issues, you can find BBQ on Mumble or irc or PM me at /u/Splanky222 on Reddit for this project
 specifically, but any of teh devs should be able to help you with GitHub as well.
+
+#How to use this stuff in OBS
+
+Open OBS and go to "Scene Collections" and click New.  Then go to Scene Collections -> Import and 
+find the "Scenes.xconfig" file inside the repository folder.  You should be able to see all of our 
+different scenes and be able to use any of the media inside the repository folder.
