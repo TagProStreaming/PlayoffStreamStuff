@@ -1,0 +1,1 @@
+sed 's/Mac\/Path\//C:\\\\PlayoffStreamStuff\\\\/g' macscenes.xconfig > testscenes.xconfig
