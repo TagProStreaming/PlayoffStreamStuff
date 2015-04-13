@@ -1,1 +1,2 @@
-sed 's/Mac\/Path\//C:\\\\PlayoffStreamStuff\\\\/g' macscenes.xconfig > testscenes.xconfig
+cp scenes.xconfig oldscenes.xconfig
+sed 's/\/Users\/Shared\/Documents\/PlayoffStreamStuff\//C:\\\\PlayoffStreamStuff\\\\/g' macscenes.xconfig > scenes.xconfig
